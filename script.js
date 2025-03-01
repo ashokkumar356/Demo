@@ -1,4 +1,4 @@
-const alert = document.getElementById("alert");
+// const alert = document.getElementById("alert");
 
 function clickAlert() {
   alert("Hello world");
